@@ -1,0 +1,17 @@
+/*upzila introduce*/
+.all_content_wrap h4{
+	background: #065393;
+	color: white;
+	margin-top: 15px;
+	padding: 5px 0px;
+	text-align: center;
+}
+ul{
+	padding: 0px!important;
+}
+ul li{
+	list-style: none;
+	padding: 5px 0px;
+	
+}
+/*upzila introduce end*/
