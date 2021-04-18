@@ -1,0 +1,51 @@
+/*upzila introduce*/
+.full_sec_con_wrap h4{
+	width:100%;
+	background: #003a6a;
+	padding: 10px 0px;
+	text-align: center;
+	margin-top:20px;
+	color:white;
+}
+.all_content_wrap h4{
+	background: #065393;
+	color: white;
+	margin-top: 15px;
+	padding: 5px 0px;
+	text-align: center;
+}
+.right_content_wrap h4{
+	background: #065393;
+	color: white;
+	padding: 5px 0px;
+	text-align: center;
+}
+thead{
+	text-align: center;
+}
+ul{
+	padding: 0px!important;
+}
+ul li{
+	list-style: none;
+	padding: 5px 0px;
+	
+}
+/*upzila introduce end*/
+
+/*upzila chirman*/
+
+.all_content_wrap img{
+	background: #ded5d5;
+	padding: 10px;
+	margin-top:20px;
+    float: left;
+    margin-right:40px;
+}
+.uz_chirman_content {
+	float: left;
+}
+.uz_chirman_content h2{
+	margin-top:20px;
+}
+/*upzila chirman end*/
